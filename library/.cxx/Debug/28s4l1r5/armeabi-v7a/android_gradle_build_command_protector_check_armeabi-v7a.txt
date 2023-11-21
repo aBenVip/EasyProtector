@@ -1,0 +1,7 @@
+Executable : /Users/wangxiben/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/.cxx/Debug/28s4l1r5/armeabi-v7a
+protector_check
+jvmArgs : 
+

@@ -1,0 +1,3 @@
+# ninja log v5
+0	437	1700463368	CMakeFiles/protector_check.dir/src/main/jni/antitrace.cpp.o	faf9835f0283e175
+438	503	1700463368	../../../../build/intermediates/cxx/RelWithDebInfo/3c685m30/obj/arm64-v8a/libprotector_check.so	bd4b2c3e71e863b1

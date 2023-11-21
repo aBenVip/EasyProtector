@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/.cxx/Debug/28s4l1r5/armeabi-v7a",
+  "command": "/Users/wangxiben/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --sysroot=/Users/wangxiben/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dprotector_check_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/protector_check.dir/src/main/jni/antitrace.cpp.o -c /Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/src/main/jni/antitrace.cpp",
+  "file": "/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/src/main/jni/antitrace.cpp"
+}
+]

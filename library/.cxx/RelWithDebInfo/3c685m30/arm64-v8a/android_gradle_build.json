@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/wangxiben/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/.cxx/RelWithDebInfo/3c685m30/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/wangxiben/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/.cxx/RelWithDebInfo/3c685m30/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "protector_check::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "protector_check",
+      "output": "/Users/wangxiben/AndroidStudioProjects/EasyProtector-master/library/build/intermediates/cxx/RelWithDebInfo/3c685m30/obj/arm64-v8a/libprotector_check.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/wangxiben/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/wangxiben/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
